@@ -28,11 +28,6 @@ this option has ssh logs to run it run the following commands.
 
 screen ./connectproxy cncserverip cncscreenport proxyport (has ssh logs)
 
-# Setup - SSH Verification
-
-1. FILE IS NOT READY FOR RELEASE YET WILL UPDATE THE REPO WHEN ITS FINISHED
-
-
 # Socials & Other:  
 
 If you think this is a backdoor, please dm me proof! otherwise fuck off
