@@ -26,3 +26,7 @@ Socials - IG: @tcpfailed Discord: tcplol Telegram: @tcpfailed
 # Change Log:
 - Added Discord Logs 
 - Improved Bugs
+- 
+Centering Content (HTML)
+
+<p align="center"> Centered text or images </p>
