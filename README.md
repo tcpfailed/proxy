@@ -27,4 +27,8 @@ Socials - IG: @tcpfailed Discord: tcplol Telegram: @tcpfailed
 - Added Discord Logs 
 - Improved Bugs
 
-Press <kbd>Ctrl</kbd> + <kbd>C</kbd> 
+Tables
+| Name | Age |
+|------|-----|
+| John | 25 |
+| Jane | 30 |
