@@ -27,4 +27,5 @@ Socials - IG: @tcpfailed Discord: tcplol Telegram: @tcpfailed
 - Added Discord Logs 
 - Improved Bugs
 
-`inline code`
+- first
+- second
