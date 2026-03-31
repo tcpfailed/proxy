@@ -1,4 +1,4 @@
-#### SSHProxy
+##### SSHProxy
 1. sudo apt install golang-go
 2. Import the .go file non compiled into your ssh
 3. go run connectproxy.go (can rename if you'd like)
