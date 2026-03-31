@@ -26,7 +26,3 @@ Socials - IG: @tcpfailed Discord: tcplol Telegram: @tcpfailed
 # Change Log:
 - Added Discord Logs 
 - Improved Bugs
-
-- Item 1
-- Item 2
-* Item 3
