@@ -1,15 +1,6 @@
 # SSHProxy
-Setup Tutorial - ProxyFile, SSH Verification (UNRELEASED)
 
-# Setup - ProxyFile Compiled
-
-1. PLEASE HAVE AN SSH SERVER DONT DM ME ASKING "WhYs ThIs NoTTT WORKING" 
-2. Must Have Ubuntu 22 or 24
-3. sudo apt-get update
-4. Run chmod 777 *
-5. ./connectproxy
-
-# Setup - ProxyFile Uncompiled
+#### Setup - ProxyFile Uncompiled
 1. sudo apt install golang-go
 2. Import the .go file non compiled into your ssh
 3. go run connectproxy.go (can rename if you'd like)
