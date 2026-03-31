@@ -28,3 +28,4 @@ Socials - IG: @tcpfailed Discord: tcplol Telegram: @tcpfailed
 - Improved Bugs
 
 __bold text__
+**bold text**
