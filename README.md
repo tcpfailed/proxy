@@ -8,9 +8,9 @@ screen git golang-go
 ```
 ---
 
-### Screening
+### Screening & Deataching
 1. screen go run proxy.go backendip cncscreenport proxyport
-2. <kbd>ctrl + a + d</kbd> (dont use the + key
+2. deattach from tbe screen by doing <kbd>ctrl + a + d</kbd> on your keyboard (dont include the + key) 
 
 ### Socials & Other:
 * GitHub: *https://github.com/tcpfailed*
