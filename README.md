@@ -1,7 +1,7 @@
 ## SSHProxy
 ```js
 1. apt-get update && sudo apt install -y \
-screen git golang-go \
+screen git golang-go 
 2. Import the .go file into your server
 3. cd proxy
 4. go run proxy.go backendip cncscreenport proxyport
