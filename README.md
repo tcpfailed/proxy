@@ -14,7 +14,7 @@ screen git golang-go
 * Telegram: *tcpfailed*
 
 
-# Change Log:
+### Change Log:
 - Resimplified the code after (1yr)
 - Removed discord logs
 - Removed error logs that kept allocating memory and causing the screen / instance to die
