@@ -8,7 +8,7 @@ screen git golang-go
 ```
 ---
 
-## Socials & Other:
+### Socials & Other:
 * GitHub: *https://github.com/tcpfailed*
 * Discord: *tcpxd*
 * Telegram: *tcpfailed*
