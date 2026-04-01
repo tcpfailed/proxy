@@ -8,6 +8,10 @@ screen git golang-go
 ```
 ---
 
+### Screening
+1. screen go run proxy.go backendip cncscreenport proxyport
+2. <kbd>ctrl + a + d</kbd> (dont use the + key
+
 ### Socials & Other:
 * GitHub: *https://github.com/tcpfailed*
 * Discord: *tcpxd*
@@ -16,5 +20,5 @@ screen git golang-go
 
 ### Change Log:
 - Resimplified the code after (1yr)
-- Removed discord logs
+- Removed discord logs (might re add)
 - Removed error logs that kept allocating memory and causing the screen / instance to die
