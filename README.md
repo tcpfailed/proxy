@@ -15,5 +15,6 @@ screen git golang-go
 
 
 # Change Log:
-- Added Discord Logs 
-- Improved Bugs
+- Resimplified the code after (1yr)
+- Removed discord logs
+- Removed error logs that kept allocating memory and causing the screen / instance to die
