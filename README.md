@@ -9,8 +9,10 @@ screen git golang-go
 ---
 
 # Socials & Other:
+GitHub: *https://github.com/tcpfailed*
+Discord: *tcpxd*
+Telegram: *tcpfailed*
 
-Socials - IG: @tcpfailed Discord: tcplol Telegram: @tcpfailed
 
 # Change Log:
 - Added Discord Logs 
