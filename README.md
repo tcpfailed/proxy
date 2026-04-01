@@ -1,20 +1,15 @@
 ## SSHProxy
 ```js
-1. sudo apt install golang-go
-2. Import the .go file non compiled into your ssh
-3. go run proxy.go
+1. apt-get update && sudo apt install -y \
+screen git golang-go \
+2. Import the .go file into your server
+3. cd proxy
+4. go run proxy.go backendip cncscreenport proxyport
 ```
-
-# How To Compile The Uncompiled Source:
-1. go build connectproxy.go (can rename if you'd like)
-2. chmod 777 *
-3. ./filename 
 
 # Additional Info: 
 
 1. sudo apt install screen
-
-this option has ssh logs to run it run the following commands.
 
 screen ./connectproxy cncserverip cncscreenport proxyport (has ssh logs)
 
